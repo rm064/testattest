@@ -1,0 +1,21 @@
+from,to,relation
+HPR,,
+FH,,
+MF,Basis,5
+MF,MR,2
+MF,ME,1
+ME,KSK,4
+ME,PW,1
+ME,MF,1
+CW,AfD,5
+RHL,AfD,4
+RVP,Bundeswehr,5
+RVP,PW,3
+PG,,
+MVH,KSK,5
+MR,MF,2
+PW,Bundeswehr ,5
+PW,RVP,3
+PW,ME,1
+RR,,
+BMW,AfD,5
